@@ -3,7 +3,7 @@
 ## Introduction
 - This project is a learning exercise, exploring Object-Oriented Programming and the concepts thereof. Through the process of building a zoo, we implement the four pillars of OOP: Inheritance, Abstraction, Polymorphism, and Encapsulation.
 
-![Zoo Diagram](/assets/Zoo Diagram.png)
+![Zoo Diagram](https://github.com/shifted7/Lab06-07-Zoo/blob/master/assets/Zoo%20Diagram.png)
 
 
 The four OOP principles can be explained as follows:
