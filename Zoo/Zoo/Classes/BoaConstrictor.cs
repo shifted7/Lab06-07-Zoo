@@ -19,7 +19,7 @@ namespace Zoo.Classes
 
         public override void Speak()
         {
-            Console.WriteLine("MraaAAW");
+            Console.WriteLine("HSSSSSSSSSSSSsssss");
         }
         public override void Slither()
         {
