@@ -4,8 +4,10 @@ using System.Text;
 
 namespace Zoo.Classes
 {
-    abstract class Bird : Animal
+    public abstract class Bird : Animal
     {
+        virtual public bool CanFly { get; set; } = true;
         abstract public string FeatherPattern { get; set; }
+        
     }
 }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo.Classes
 {
-    class BoaConstrictor : Snake
+    public class BoaConstrictor : Snake
     {
         public override string Identity { get; set; }
         public override string Sex { get; set; }
@@ -19,7 +19,7 @@ namespace Zoo.Classes
 
         public override void Speak()
         {
-            Console.WriteLine("MraaAAW");
+            Console.WriteLine("HSSSSSSSSSSSSsssss");
         }
         public override void Slither()
         {
